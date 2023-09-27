@@ -1,0 +1,30 @@
+.change-style {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+} 
+
+.form-change {
+    width: 700px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 50px;
+}
+
+.form-btn-change {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
+.form-avatar {
+    display: flex;
+    justify-content:center;
+    align-items: center
+}
+.title-change {
+    text-align: center;
+}

@@ -1,0 +1,3 @@
+- Lưu ý : Sử dụng yarn
+-chạy dbJson:  json-server --watch db.json
+-chay FE: yarn dev

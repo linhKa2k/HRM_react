@@ -1,0 +1,28 @@
+.login-style {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+.form-login {
+    width: 700px;
+    height: 450px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.form-style {
+    margin-top:90px;
+    display: flex;
+    flex-direction: column
+}
+.title-login {
+    text-align: center;
+}
+.form-navigate {
+    margin-top:50px;
+    display: flex;
+    justify-content:center;
+    align-items:center
+}
